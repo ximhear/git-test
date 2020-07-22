@@ -5,5 +5,7 @@ class Hello {
     func greet() -> String {
         return value;
     }
+
+    var name: String
 }
 
