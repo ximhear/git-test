@@ -6,6 +6,14 @@ class Hello {
         return value;
     }
 
-    var name: String
+    var name: String?
 }
+
+extension Hello {
+    func bye() {
+    }
+    func invite() {
+    }
+}
+
 
