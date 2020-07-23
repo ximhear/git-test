@@ -12,6 +12,7 @@ class Hello {
 extension Hello {
     func bye() {
     }
+    // function
     func invite() {
     }
 }
