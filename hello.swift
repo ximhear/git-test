@@ -10,6 +10,7 @@ class Hello {
 }
 
 extension Hello {
+    // comment
     func bye() {
     }
     // function
